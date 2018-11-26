@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImplicitIntentTx</string>
+    <string name="type_msz">Type MSZ</string>
+    <string name="send_msz">Send MSZ</string>
+</resources>
